@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-socketio==5.3.5
+flask-login==0.6.2
+eventlet==0.33.3
+python-dotenv==1.0.0
+werkzeug==2.3.7
+flask-wtf==1.1.1 
